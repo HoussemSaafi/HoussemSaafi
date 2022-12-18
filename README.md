@@ -16,13 +16,13 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on My personal portfolio and personal project.
+- 🔭 I’m currently working remotely for Techspotdev as full-stack software engineer.
 
-- 🌱 I’m currently learning Spring Boot, React and Machine Learning. 
+- 🌱 I’m currently growing my knowledge about Spring Boot, React, Angular and Automated Machine Learning cloud plateforms such as AWS, Google Cloud & Microsoft Azure. 
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about Java Programming, JavaScript, TypeScript, Angular, Freelancing Opportunites, Open Source 
+- 💬 Talk to me about Java Programming, JavaScript, TypeScript, Spring Boot, React, Angular, Deep Learning, AutoML, Freelancing Opportunites, Open Source Projects
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> </h2>
 <a href="https://angular.io" target="_blank"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width ='32px'> </a> 
