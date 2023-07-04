@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working remotely for Techspotdev as full-stack software engineer.
+- 🔭 I’m currently working remotely for taico GmbH as full-stack software engineer.
 
 - 🌱 I’m currently growing my knowledge about Spring Boot, React, Angular and Automated Machine Learning cloud plateforms such as AWS, Google Cloud & Microsoft Azure. 
 
