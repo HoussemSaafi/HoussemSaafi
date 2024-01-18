@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working remotely at Jina AI as full-stack software engineering intern.
+- 🔭 I’m currently working remotely at taico GmbH as full-stack software engineering intern.
 
 - 🌱 I’m currently growing my knowledge about Spring Boot, React, Angular and Automated Machine Learning cloud plateforms such as AWS, Google Cloud & Microsoft Azure. 
 
